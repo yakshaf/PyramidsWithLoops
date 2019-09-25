@@ -18,7 +18,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		int lines = 5;
-		for (int i = 1; i <= lines; i++) {  //print 5 lines
+		for (int i = 1; i <= lines; i++) {  //print lines
 			
 			for (int j = 1; j <=lines - i; j++) {  //print spaces before the number
 				System.out.print(" ");
